@@ -6,5 +6,5 @@ Communication diagram
 
 ![sattlite](https://github.com/user-attachments/assets/7a10cdb6-6d3e-4a74-89a7-bc17aacaa38d)
 
-TEAM 2 K65AE
+TEAM 2 K65AE UET
 ![team2-K65AE](https://github.com/user-attachments/assets/b594b80a-0322-4c74-83c0-37389d257e4b)
