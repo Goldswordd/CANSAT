@@ -16,5 +16,5 @@ light
 rain
 ![DEMO DataPlot](DataPlot.jpg)
 
-TEAM 2 K65AE UET
+My team from K65-SAE-UET
 ![team2-K65AE](https://github.com/user-attachments/assets/b594b80a-0322-4c74-83c0-37389d257e4b)
